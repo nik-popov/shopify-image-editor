@@ -1,2 +1,1 @@
 # shopify-image-editor
-ggg
